@@ -11,6 +11,7 @@ The dataset used is `winequality-red.csv`, which contains information about vari
 
 
 ---
+## APP:https://huggingface.co/spaces/venmugilrajan/Wine_Quality_PCA
 ## Explained Variance by Component
 ![Explained Variance by Component](image.png)
 ## Files in this Repository
